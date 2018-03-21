@@ -12,7 +12,7 @@ extension NSObject {
 }
 
 public struct SwiftyExtension<Base> {
-    let base: Base
+    public let base: Base
 }
 
 public protocol SwiftyExtensionCompatible {
