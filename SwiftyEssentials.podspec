@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SwiftyEssentials"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A collection of extensions to make iOS development easier."
   s.homepage     = "https://github.com/onoyuuya/SwiftyEssentials"
   s.license      = { :type => "MIT", :file => "LICENSE" }
